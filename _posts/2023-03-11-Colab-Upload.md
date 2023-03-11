@@ -1,5 +1,5 @@
 ---
-title: How to Upload Large Files to Google Colab without directly Uploading to Google Services
+title: How to Upload Large Files to Google Colab without Directly Uploading to Google Services
 date: 2023-03-11 21:00:00 +0800
 categories: [Technical, Deep Learning]
 tags: [colab]     # TAG names should always be lowercase
